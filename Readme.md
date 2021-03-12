@@ -1,9 +1,10 @@
 Memoring
 =========
 
-Create .env file and copy `.env.template` and paste in `.env` file, and write yours values.
-
-Install [MongoDB Community Download \| MongoDB](https://www.mongodb.com/try/download/community)
+* Install [MongoDB Community Download \| MongoDB](https://www.mongodb.com/try/download/community)
+* Configura tu bot aquí para obtener el `token`. [Discord Developer Portal](https://discord.com/developers/applications/).
+* Puedes guiarte en parte aquí. [Cómo crear un bot de Discord con Node.js \| DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-build-a-discord-bot-with-node-js-es)
+* Crea un archivo `.env` y copia de `.env.template` y pega en `.env`, y escribe sus valores requeridos.
 
 ```
 npm install
