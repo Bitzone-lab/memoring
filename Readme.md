@@ -3,6 +3,8 @@ Memoring
 
 Create .env file and copy `.env.template` and paste in `.env` file, and write yours values.
 
+Install [MongoDB Community Download \| MongoDB](https://www.mongodb.com/try/download/community)
+
 ```
 npm install
 npm run dev
@@ -101,3 +103,5 @@ GET /api/members
 
 * [discord.js](https://discord.js.org/#/docs/main/stable/examples/embed)
 * [Mongoose v5.12.0: Queries](https://mongoosejs.com/docs/queries.html)
+* [Cómo crear un bot de Discord con Node.js \| DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-build-a-discord-bot-with-node-js-es)
+* [GitHub - FaztWeb/company-products-api at 0394b6f8584a1cf61dad294ad4796bf4669f87eb](https://github.com/FaztWeb/company-products-api/tree/0394b6f8584a1cf61dad294ad4796bf4669f87eb)
